@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="JonahK.gif" title="HTML5" alt="HTML" width="100"/>&nbsp; 
+
 ### I am Jonathan Kayizzi, a Full Stack Developer from Uganda
 <a href="https://www.linkedin.com/in/jonathan-kayizzi-bb527965/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,8 +10,10 @@
 - 🔭 I’m currently working on remote pair-programming projects using <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="15" height="15"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="15" height="15"/>&nbsp; and
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails"  alt="Ruby on Rails" width="15" height="15"/>&nbsp; at ![](https://img.shields.io/badge/Microverse-blueviolet) with fellow developers around the world
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails"  alt="Ruby on Rails" width="15" height="15"/>&nbsp; at ![](https://img.shields.io/badge/Microverse-blueviolet) with fellow developers around the world.
+- ☎️ I’m on the look out for remote full stack opportunities
+- 💬 Ask me about anything in 🚗 Formula 1
+- ⚡ Fun fact: I am a 🌲 plant Dad
 ### :hammer_and_wrench: Languages and Tools I have worked with: 
 
 <div>
@@ -33,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
 </div>
-
 ---
 
 ### :fire: My Stats :
@@ -48,5 +51,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 --!>
