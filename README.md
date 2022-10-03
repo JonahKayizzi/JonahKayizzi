@@ -1,6 +1,6 @@
-### Hi there 👋
+<img src="JonahK.mp4" title="HTML5" alt="HTML" width="100%"/>&nbsp;
 
-<img src="JonahK.gif" title="HTML5" alt="HTML" width="100"/>&nbsp; 
+### Hi there 👋
 
 ### I am Jonathan Kayizzi, a Full Stack Developer from Uganda
 <a href="https://www.linkedin.com/in/jonathan-kayizzi-bb527965/">
