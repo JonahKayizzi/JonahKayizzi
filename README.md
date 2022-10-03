@@ -1,7 +1,4 @@
 <img src="JonahK.gif" title="HTML5" alt="HTML" width="100%"/>&nbsp;
-
-### Hi there 👋
-
 ### I am Jonathan Kayizzi, a Full Stack Developer from Uganda
 <a href="https://www.linkedin.com/in/jonathan-kayizzi-bb527965/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
