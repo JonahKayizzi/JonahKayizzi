@@ -1,4 +1,4 @@
-<img src="JonahK.mp4" title="HTML5" alt="HTML" width="100%"/>&nbsp;
+<img src="JonahK.gif" title="HTML5" alt="HTML" width="100%"/>&nbsp;
 
 ### Hi there 👋
 
