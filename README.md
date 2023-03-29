@@ -1,6 +1,6 @@
 ### I am Jonathan Kayizzi, a Full Stack Developer from Uganda
   
-- 🔭 I’m currently working on a upgrade of Yuunga (a B2B app for MSMEs & freelancers) to an API driven Rails backend and React frontend collaboratively with a remote team of developers through pair-programming.
+- 🔭 I’m currently working on an upgrade of Yuunga (a B2B app for MSMEs & freelancers) to an API driven Rails backend and React frontend collaboratively with a remote team of developers through pair-programming.
 - I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
 - ☎️ I’m on the look out for remote full stack web development opportunities
 - My next learning goals are developing cloud based solutions (using AWS) & using CI/CD tools (such as Docker)
@@ -21,9 +21,8 @@
 
 ### :fire: My Stats :
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonahKayizzi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonahKayizzi&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonahKayizzi&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonahKayizzi&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
