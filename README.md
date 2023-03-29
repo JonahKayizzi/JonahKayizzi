@@ -1,12 +1,12 @@
 ### I am Jonathan Kayizzi, a Full Stack Developer from Uganda
-<a href="https://www.linkedin.com/in/jonathan-kayizzi-bb527965/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   
-- 🔭 I’m currently working on remote pair-programming projects using with fellow developers around the world.
-- ☎️ I’m on the look out for remote full stack opportunities
+- 🔭 I’m currently working on a upgrade of Yuunga (a B2B app for MSMEs & freelancers) to an API driven Rails backend and React frontend collaboratively with a remote team of developers through pair-programming.
+- I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
+- ☎️ I’m on the look out for remote full stack web development opportunities
+- My next learning goals are developing cloud based solutions (using AWS) & using CI/CD tools (such as Docker)
 - 💬 Ask me about anything in 🚗 Formula 1
 - ⚡ Fun fact: I am a 🌲 plant Dad
+
 ### :hammer_and_wrench: My Skill Set: 
 
 | Skills                 | Technologies, Languages & Tools                                                                 |
