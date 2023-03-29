@@ -33,6 +33,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
 </div>
+
+ | Category                           | Technology                               |
+| ---------------------------------- | ---------------------------------------- |
+| Programming Languages              | Java, Python, C++, Ruby, JavaScript, PHP |
+| Libraries & Frameworks             | React, Rails, jQuery, Django, Express.js |
+| Web Development                    | HTML5, CSS3                              |
+| Database Management                | SQL, Oracle, MySQL, MongoDB, PostgreSQL  |
+| Operating Systems                  | Windows, Linux, Unix, MacOS              |
+| Version Control                    | Git, SVN                                 |
+| Software Development Methodologies | Agile, Waterfall                         |
+| Developer tools                    | GitHub, Slack                            |
+
 ---
 
 ### :fire: My Stats :
