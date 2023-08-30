@@ -1,4 +1,4 @@
-### I am Jonathan Kayizzi, a Full Stack Developer from Uganda
+### I am Jonathan Kayizzi, a Full Stack Developer
   
 - 🔭 I’m currently working on an upgrade of Yuunga (a B2B app for MSMEs & freelancers) to an API driven Rails backend and React frontend collaboratively with a remote team of developers through pair-programming.
 - I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
