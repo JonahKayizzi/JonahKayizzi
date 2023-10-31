@@ -1,6 +1,7 @@
 ### I am Jonathan Kayizzi, a Full Stack Developer
   
-- 🔭 I’m currently working on an upgrade of Yuunga (a B2B app for MSMEs & freelancers) to an API driven Rails backend and React frontend collaboratively with a remote team of developers through pair-programming.
+- 🔭 I’m currently working on a migration of a Safety Management System from a PHP Framwork to a Java Framework & a React Front End. Also working on a Fitness & Sports social App in React/Native and Java Spring
+- My most recent accomplishment: Developed a React Native Expo app (with a Java Backend) that helps farmers purchase farming supplies on credit basing on their credit score and integrated it with the MTN Mobile Money API. The app won the hackathon.  
 - I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
 - ☎️ I’m on the look out for remote full stack web development opportunities
 - My next learning goals are developing cloud based solutions (using AWS) & using CI/CD tools (such as Docker)
@@ -9,12 +10,12 @@
 
 ### :hammer_and_wrench: My Skill Set: 
 
-| Skills                 | Technologies, Languages & Tools                                                                 |
-| ---------------------- | ------------------------------------------------------------------------------------------------|
-| Front-End              | JavaScript, React, Redux, HTML5, CSS3, Tailwind CSS, SASS, Figma, Mobile/Responsive Development |
-| Back-End               | Ruby on Rails, PHP, Java, MySQL, PostgreSQL                                                     |
-| Other Languages        | Embedded C                                                                                      |
-| Testing                | TDD, Jest, React Testing Library, RSpec, rubocop, ESLint                                        |
+| Skills                 | Technologies, Languages & Tools                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------|
+| Front-End              | JavaScript, React, React Native/Expo Redux, HTML5, CSS3, Tailwind CSS, SASS, Figma, Mobile/Responsive Development |
+| Back-End               | Ruby on Rails, PHP Symfony, Java, MySQL, PostgreSQL                                                               |
+| Other Languages        | Embedded C                                                                                                        |
+| Testing                | TDD, Jest, React Testing Library, RSpec, rubocop, ESLint                                                          |
 | Tools & Methods        | Agile/Scrum, Git, GitHub, git-flow, RESTful API, Netflify, Chrome Dev Tools, kanban, JWT API authentication, SOA, Swagger API documentation, Linux |
 | Professional           | Remote Pair-programming,Teamwork, Mentoring, Best Programming Practices TDD, DRY, YAGNI, KISS, SOLID |
 ---
