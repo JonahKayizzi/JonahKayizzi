@@ -2,9 +2,9 @@
   
 - 🔭 I’m currently working on a migration of a Safety Management System from a PHP Framwork to a Java Framework & a React Front End. Also working on a Fitness & Sports social App in React/Native and Java Spring
 - My most recent accomplishment: Developed a React Native Expo app (with a Java Backend) that helps farmers purchase farming supplies on credit basing on their credit score and integrated it with the MTN Mobile Money API. The app won the hackathon.  
-- I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
-- ☎️ I’m on the look out for remote full stack web development opportunities
-- My next learning goals are developing cloud based solutions (using AWS) & using CI/CD tools (such as Docker)
+- Undertaking a masters degree in Electrical and Computer Engineering with a focus on Software Engineering, Data Analytics and Machine Learning
+- ☎️ I’m on the look out for remote software engineering and analytics opportunities
+- My next learning goals leveraging AI and ML in software engineering
 - 💬 Ask me about anything in 🚗 Formula 1
 - ⚡ Fun fact: I am a 🌲 plant Dad
 
@@ -12,11 +12,11 @@
 
 | Skills                 | Technologies, Languages & Tools                                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------|
-| Front-End              | JavaScript, React, React Native/Expo Redux, HTML5, CSS3, Tailwind CSS, SASS, Figma, Mobile/Responsive Development |
-| Back-End               | Ruby on Rails, PHP Symfony, Java, MySQL, PostgreSQL                                                               |
+| Front-End              | JavaScript, Typescript React, React Native/Expo Redux, HTML5, CSS3, Tailwind CSS, Figma                           |
+| Back-End               | PHP Symfony, Java, SQL, PostgreSQL                                                                                |
 | Other Languages        | Embedded C                                                                                                        |
-| Testing                | TDD, Jest, React Testing Library, RSpec, rubocop, ESLint                                                          |
-| Tools & Methods        | Agile/Scrum, Git, GitHub, git-flow, RESTful API, Netflify, Chrome Dev Tools, kanban, JWT API authentication, SOA, Swagger API documentation, Linux |
+| Testing                | Jest, React Testing Library, ESLint                                                                               |
+| Tools & Methods        | Agile/Scrum, Git, GitHub, git-flow, RESTful API, JWT API authentication, Swagger API documentation, CI/CD, Docker, Kubernetes |
 | Professional           | Remote Pair-programming,Teamwork, Mentoring, Best Programming Practices TDD, DRY, YAGNI, KISS, SOLID |
 ---
 
