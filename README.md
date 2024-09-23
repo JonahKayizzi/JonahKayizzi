@@ -13,7 +13,7 @@
 | Skills                 | Technologies, Languages & Tools                                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------|
 | Front-End              | JavaScript, Typescript React, React Native/Expo Redux, HTML5, CSS3, Tailwind CSS, Figma                           |
-| Back-End               | PHP Symfony, Java, SQL, PostgreSQL                                                                                |
+| Back-End               | Java (Spring Boot), Python, C, PHP Symfony, SQL                                                                   |
 | Other Languages        | Embedded C                                                                                                        |
 | Testing                | Jest, React Testing Library, ESLint                                                                               |
 | Tools & Methods        | Agile/Scrum, Git, GitHub, git-flow, RESTful API, JWT API authentication, Swagger API documentation, CI/CD, Docker, Kubernetes |
